@@ -7,7 +7,7 @@ The code is a simple simulation game using the Ursina library to manage resource
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 7/10](#Rating)
+- [Ratting: 7/10](#Rating)
 
 ## About
 
@@ -17,6 +17,6 @@ The code is a simple simulation game that allows users to manage resources like 
 
 random, ursina 
 
-# Rating
+# Ratting
 
 The code is well-structured and organized, making it a solid foundation for a resource management simulation game, but there's room for improvement in readability, comments, and performance optimization in certain parts.
