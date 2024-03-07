@@ -9,7 +9,7 @@ The code is a simple simulation game using the Ursina library to manage resource
 - [Imports](#Imports)
 - [Rating: 7/10](#Rating)
 
-## About
+# About
 
 The code is a simple simulation game that allows users to manage resources like money, food, objects, eggs, and meat using the Ursina library. It imports libraries, sets up the environment, defines functions for updating resource counts, creates entities for game elements like the board, resources, shop, storage, and incubator, defines classes for shop products, shop itself, storage, and incubator, implements functionality for buying items, managing storage, and incubating eggs, and sets up the main loop for running the game.
 
@@ -21,7 +21,7 @@ Classes and object-oriented design are available for different game features, su
 
 Ursina is cross-platform compatible, supporting Windows, Linux, and potentially macOS, allowing developers to develop their game on one platform and run it seamlessly on others. It is free, open source, and licensed under the permissive MIT license, allowing users to modify the source code, fix bugs, and add features as needed.
 
-## Imports
+# Imports
 
 random, ursina 
 
