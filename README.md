@@ -21,8 +21,6 @@ Classes and object-oriented design are available for different game features, su
 
 Ursina is cross-platform compatible, supporting Windows, Linux, and potentially macOS, allowing developers to develop their game on one platform and run it seamlessly on others. It is free, open source, and licensed under the permissive MIT license, allowing users to modify the source code, fix bugs, and add features as needed.
 
-For more detailed information and examples, check out the Ursina documentation at https://www.ursinaengine.org/.
-
 ## Imports
 
 random, ursina 
