@@ -7,7 +7,7 @@ The code is a simple simulation game using the Ursina library to manage resource
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Ratting: 7/10](#Rating)
+- [Ratting: 7/10](#Ratting)
 
 ## About
 
