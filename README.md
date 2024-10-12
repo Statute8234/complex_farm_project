@@ -1,6 +1,8 @@
 # complex_farm_project
-
 The code is a simple simulation game using the Ursina library to manage resources like money, food, objects, eggs, and meat. It imports libraries, defines functions, creates game entities, classes, implements functionality for buying items, managing storage, and incubating eggs, and sets up the main loop.
+
+[![Static Badge](https://img.shields.io/badge/random-green)](https://pypi.org/project/random/)
+[![Static Badge](https://img.shields.io/badge/ursina-yellow)](https://pypi.org/project/ursina/)
 
 ## Table of Contents
 
